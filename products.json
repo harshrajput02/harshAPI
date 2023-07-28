@@ -1,0 +1,35 @@
+[
+    {
+        "name": "watch10",
+        "price": "65",
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "phone s",
+        "price": "652",
+        "featured":true,
+        "company": "samsung"
+    },
+    
+    {
+        "name": "iphone",
+        "price": "4545",
+        "featured":false,
+        "company": "apple"
+    },
+    {
+        "name": "watch45",
+        "price": "675",
+        "featured":false,
+        "company": "samsung"
+    },
+    {
+        "name": "uphone14",
+        "price": "65000",
+        "featured":true,
+        "company": "apple"
+    }
+    
+
+]
